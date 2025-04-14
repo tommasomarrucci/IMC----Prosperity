@@ -1,4 +1,4 @@
-from datamodel import OrderDepth, UserId, TradingState, Order, ConversionObservation
+from Round_3.datamodel import OrderDepth, UserId, TradingState, Order, ConversionObservation
 from typing import List, Dict
 import jsonpickle
 import numpy as np

@@ -5,7 +5,7 @@ from typing import Any
 import numpy as np
 import pandas as pd
 
-from datamodel import (Listing, Observation, Order, OrderDepth,
+from Round_3.datamodel import (Listing, Observation, Order, OrderDepth,
                        ProsperityEncoder, Symbol, Time, Trade, TradingState)
 
 

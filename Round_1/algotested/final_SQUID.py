@@ -1,7 +1,7 @@
 import math
 import jsonpickle
 import numpy as np
-from datamodel import OrderDepth, Order, TradingState
+from Round_3.datamodel import OrderDepth, Order, TradingState
 
 # Best parameters from grid search:
 SQUID_INK_make_width = 0.3
