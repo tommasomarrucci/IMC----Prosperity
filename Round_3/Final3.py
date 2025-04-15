@@ -10,6 +10,7 @@ class Product:
     RAINFOREST_RESIN = "RAINFOREST_RESIN"
     SQUID_INK = "SQUID_INK"
     KELP = "KELP"
+    
 
 
 PARAMS = {
