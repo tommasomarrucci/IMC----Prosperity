@@ -138,7 +138,7 @@ class Trader:
             conv_lim=self.params[mac]["conv_limit"]
             to_conv=min(abs(pos), conv_lim)
             conv=int(-np.sign(pos)*to_conv) if pos!=0 else 0
-            conversions += conv
+            conversions = 0
             # record
             result[mac]=orders
 
